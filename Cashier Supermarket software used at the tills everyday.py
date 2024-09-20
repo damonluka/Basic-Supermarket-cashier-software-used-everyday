@@ -1,5 +1,9 @@
 
 Supermarket - Cashier Code 
+# Cashier software, there are no bugs in this code I made,
+# we have 3 memberships types, gold,silver, bronze 
+# discounts are given to customers who hold memberships 
+# I used booleans, loops, functions, dictionaries, basic python Arithmetric operators in the code. 
 
 def enterProducts():
     buyingData = {}
